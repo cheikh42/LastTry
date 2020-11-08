@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44523702032",
+    "firebase_url": "https://lasttry-facde.firebaseio.com",
+    "project_id": "lasttry-facde",
+    "storage_bucket": "lasttry-facde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44523702032:android:47da2503003f39cadec795",
+        "android_client_info": {
+          "package_name": "com.example.lasttry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44523702032-isb2cgroam797gt14n5f73ugp2p0f5on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lasttry",
+            "certificate_hash": "7f49251ffa5e715f5041e722249b8d4dc8249065"
+          }
+        },
+        {
+          "client_id": "44523702032-9a8hqkj3fd7bodtjaqc6c9em3ja4ctpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91a_ycha2FkzxGEK_StB-J_-ovJENWzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44523702032-9a8hqkj3fd7bodtjaqc6c9em3ja4ctpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

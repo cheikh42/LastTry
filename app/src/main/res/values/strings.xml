@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LastTry</string>
+    <string name="Chercher">Button</string>
+    <string name="MatriculeInPut">MatriculeInPute</string>
+    <string name="rechercher_matricule">Rechercher Matricule</string>
+    <string name="chercher">Chercher</string>
+    <string name="buttonS">Button</string>
+    <string name="nome">Nom</string>
+    <string name="matriculee">Matricule</string>
+    <string name="numéro">Numéro</string>
+    <string name="moise">Mois</string>
+    <string name="poseee">Pose</string>
+    <string name="payementclient">Payement</string>
+    <string name="poseclientt">Pose</string>
+    <string name="payement">Payement</string>
+    <string name="button35">Button</string>
+    <string name="mise_jour">Mise à jour</string>
+    <string name="matricule">Matricule</string>
+    <string name="Nom">TextView</string>
+    <string name="visit">Visité</string>
+    <string name="nom">Nom</string>
+    <string name="afficher">Afficher</string>
+    <string name="button">Button</string>
+    <string name="Numéro">TextView</string>
+    <string name="Posee">TextView</string>
+    <string name="Pose">TextView</string>
+    <string name="Continue">TextView</string>
+    <string name="num_ro">Numéro</string>
+    <string name="pay">Payé</string>
+    <string name="pose">Pose</string>
+    <string name="mois">Mois</string>
+    <string name="pos">Posé</string>
+</resources>
